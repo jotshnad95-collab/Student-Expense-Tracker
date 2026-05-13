@@ -1,0 +1,61 @@
+/* Background */
+.stApp {
+    background: linear-gradient(
+        135deg,
+        #0f172a,
+        #111827
+    );
+    color: white;
+}
+
+/* Sidebar */
+section[data-testid="stSidebar"] {
+    background-color: #111827;
+    border-right: 1px solid #1f2937;
+}
+
+/* Titles */
+h1, h2, h3 {
+    color: #F9FAFB;
+    font-weight: 700;
+}
+
+/* Metric Cards */
+[data-testid="metric-container"] {
+    background: #1E293B;
+    border-radius: 18px;
+    padding: 20px;
+    border: 1px solid #334155;
+    box-shadow: 0px 4px 12px rgba(0,0,0,0.3);
+}
+
+/* Buttons */
+.stButton>button {
+    background-color: #1E3A8A;
+    color: white;
+    border: none;
+    border-radius: 0px;
+    padding: 10px;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.stButton>button:hover {
+    background-color: #172554;
+    transition: 0.2s;
+}
+
+/* Inputs */
+.stTextInput input,
+.stNumberInput input,
+textarea {
+    background-color: #1E293B !important;
+    color: white !important;
+    border-radius: 10px !important;
+}
+
+/* Selectbox */
+.stSelectbox div[data-baseweb="select"] {
+    background-color: #1E293B;
+    color: white;
+}
