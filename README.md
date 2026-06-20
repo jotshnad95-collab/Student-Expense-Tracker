@@ -90,7 +90,7 @@ Student-Expense-Tracker/
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 Clone the repository:
 
@@ -105,13 +105,13 @@ streamlit run app.py
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
 https://student-expense-tracker-5cfz5lv8hztmnz54udzcvv.streamlit.app/
 
 ---
 
-## 🎯 Future Improvements
+## Future Improvements
 
 * Search and Filter Expenses
 * PDF Report Generation
@@ -121,7 +121,7 @@ https://student-expense-tracker-5cfz5lv8hztmnz54udzcvv.streamlit.app/
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 Jotshna Dommaraju
 B.Tech CSE Student
